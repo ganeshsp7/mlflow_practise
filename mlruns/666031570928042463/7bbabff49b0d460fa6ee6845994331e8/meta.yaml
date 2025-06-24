@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/666031570928042463/7bbabff49b0d460fa6ee6845994331e8/artifacts
+end_time: 1750753891474
+entry_point_name: ''
+experiment_id: '666031570928042463'
+lifecycle_stage: active
+run_id: 7bbabff49b0d460fa6ee6845994331e8
+run_name: monumental-finch-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750753884432
+status: 3
+tags: []
+user_id: Ganesh

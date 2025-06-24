@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/79864355fe4544d0b8630792875e27dd/artifacts
+end_time: 1750746756815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79864355fe4544d0b8630792875e27dd
+run_name: unleashed-rook-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750746754240
+status: 3
+tags: []
+user_id: Ganesh

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/666031570928042463/f4231d720e5944fa96d77ac16a82cde0/artifacts
+end_time: 1750751926524
+entry_point_name: ''
+experiment_id: '666031570928042463'
+lifecycle_stage: active
+run_id: f4231d720e5944fa96d77ac16a82cde0
+run_name: valuable-newt-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750751919415
+status: 3
+tags: []
+user_id: Ganesh

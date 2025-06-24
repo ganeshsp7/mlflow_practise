@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b0893e1b4c44c62a7acd1876ede0a2f/artifacts
+end_time: 1750746192518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b0893e1b4c44c62a7acd1876ede0a2f
+run_name: nebulous-moth-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750746191184
+status: 4
+tags: []
+user_id: Ganesh

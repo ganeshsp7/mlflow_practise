@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/666031570928042463/b628f18571514a0bb613a653813bcf17/artifacts
+end_time: 1750751800127
+entry_point_name: ''
+experiment_id: '666031570928042463'
+lifecycle_stage: active
+run_id: b628f18571514a0bb613a653813bcf17
+run_name: amusing-hog-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750751792590
+status: 3
+tags: []
+user_id: Ganesh

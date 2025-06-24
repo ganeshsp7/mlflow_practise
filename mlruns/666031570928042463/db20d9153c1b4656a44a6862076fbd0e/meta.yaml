@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/666031570928042463/db20d9153c1b4656a44a6862076fbd0e/artifacts
+end_time: 1750753994396
+entry_point_name: ''
+experiment_id: '666031570928042463'
+lifecycle_stage: active
+run_id: db20d9153c1b4656a44a6862076fbd0e
+run_name: agreeable-midge-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750753987444
+status: 3
+tags: []
+user_id: Ganesh

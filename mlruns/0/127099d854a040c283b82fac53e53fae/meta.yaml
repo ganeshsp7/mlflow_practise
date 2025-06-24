@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/127099d854a040c283b82fac53e53fae/artifacts
+end_time: 1750747580521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 127099d854a040c283b82fac53e53fae
+run_name: kindly-flea-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750747577653
+status: 3
+tags: []
+user_id: Ganesh

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a649522b0bbf436a98bef87cc89e985c/artifacts
+end_time: 1750745376869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a649522b0bbf436a98bef87cc89e985c
+run_name: dashing-pug-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750745376800
+status: 3
+tags: []
+user_id: Ganesh
