@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Personal_Study/MLOps/mlflow/mlflow_practise/mlruns/546411769989848431/9f89952bdd64416e917607d94fce6c57/artifacts
+end_time: 1750755833116
+entry_point_name: ''
+experiment_id: '546411769989848431'
+lifecycle_stage: active
+run_id: 9f89952bdd64416e917607d94fce6c57
+run_name: wistful-dolphin-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750755833057
+status: 3
+tags: []
+user_id: Ganesh

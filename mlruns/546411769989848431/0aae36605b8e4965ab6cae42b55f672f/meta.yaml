@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Personal_Study/MLOps/mlflow/mlflow_practise/mlruns/546411769989848431/0aae36605b8e4965ab6cae42b55f672f/artifacts
+end_time: 1750755833188
+entry_point_name: ''
+experiment_id: '546411769989848431'
+lifecycle_stage: active
+run_id: 0aae36605b8e4965ab6cae42b55f672f
+run_name: stylish-crow-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750755833124
+status: 3
+tags: []
+user_id: Ganesh

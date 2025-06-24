@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Personal_Study/MLOps/mlflow/mlflow_practise/mlruns/546411769989848431/2ad75f6f528748419e8ba63da9304911/artifacts
+end_time: 1750755833515
+entry_point_name: ''
+experiment_id: '546411769989848431'
+lifecycle_stage: active
+run_id: 2ad75f6f528748419e8ba63da9304911
+run_name: efficient-doe-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750755833408
+status: 3
+tags: []
+user_id: Ganesh

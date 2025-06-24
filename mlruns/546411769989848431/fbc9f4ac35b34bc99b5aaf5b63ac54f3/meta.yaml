@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Personal_Study/MLOps/mlflow/mlflow_practise/mlruns/546411769989848431/fbc9f4ac35b34bc99b5aaf5b63ac54f3/artifacts
+end_time: 1750755833047
+entry_point_name: ''
+experiment_id: '546411769989848431'
+lifecycle_stage: active
+run_id: fbc9f4ac35b34bc99b5aaf5b63ac54f3
+run_name: bold-goat-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750755832983
+status: 3
+tags: []
+user_id: Ganesh

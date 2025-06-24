@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Personal_Study/MLOps/mlflow/mlflow_practise/mlruns/546411769989848431/e52c112c0b124d6699dae12c6a5b6152/artifacts
+end_time: 1750755838943
+entry_point_name: ''
+experiment_id: '546411769989848431'
+lifecycle_stage: active
+run_id: e52c112c0b124d6699dae12c6a5b6152
+run_name: angry-wren-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750755826097
+status: 3
+tags: []
+user_id: Ganesh

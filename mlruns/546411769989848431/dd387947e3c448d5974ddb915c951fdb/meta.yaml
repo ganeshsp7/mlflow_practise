@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Personal_Study/MLOps/mlflow/mlflow_practise/mlruns/546411769989848431/dd387947e3c448d5974ddb915c951fdb/artifacts
+end_time: 1750755833580
+entry_point_name: ''
+experiment_id: '546411769989848431'
+lifecycle_stage: active
+run_id: dd387947e3c448d5974ddb915c951fdb
+run_name: bustling-elk-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750755833524
+status: 3
+tags: []
+user_id: Ganesh

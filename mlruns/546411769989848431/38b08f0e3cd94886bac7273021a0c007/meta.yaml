@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Personal_Study/MLOps/mlflow/mlflow_practise/mlruns/546411769989848431/38b08f0e3cd94886bac7273021a0c007/artifacts
+end_time: 1750755833402
+entry_point_name: ''
+experiment_id: '546411769989848431'
+lifecycle_stage: active
+run_id: 38b08f0e3cd94886bac7273021a0c007
+run_name: painted-shrimp-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750755833344
+status: 3
+tags: []
+user_id: Ganesh

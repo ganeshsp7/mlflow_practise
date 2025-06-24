@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Personal_Study/MLOps/mlflow/mlflow_practise/mlruns/546411769989848431/5a55c77abdc04794adbe099917481595/artifacts
+end_time: 1750755832908
+entry_point_name: ''
+experiment_id: '546411769989848431'
+lifecycle_stage: active
+run_id: 5a55c77abdc04794adbe099917481595
+run_name: upset-stag-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750755832846
+status: 3
+tags: []
+user_id: Ganesh
